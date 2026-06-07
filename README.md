@@ -1,4 +1,4 @@
-## Olá! Aqui é o Miguel Ángel! 👋
+## Olá, Saudações! 👋
 
 <a href="https://github.com/migueltoichoa">
   <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=migueltoichoa&theme=dark" />
